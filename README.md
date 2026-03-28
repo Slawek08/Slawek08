@@ -1,8 +1,16 @@
-# 💫 About Me:
-🧑‍🏫  I’m currently working on studing
+# <p align='center'>Hi, I'm Sławek</p>
+
+<p align='center'>A small developer from Poland.</p>
+
+# <p align='center'>💫 About Me:</p>
+<p align='center'>🧑‍🏫  I’m currently working on studing </p>
+
+<p align='center'><img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.png" width="25" /> I'm also learning how to create 2D games in Godot.</p>
+
+<p align='center'>🎮 I love playing games and reading books.📖</p>
 
 
-# 💻 Tech Stack:
+# <p align='center'>💻 Tech Stack:</p>
 
 
 ## <p align="center">🗣️ Programming languages:</p>
@@ -44,11 +52,7 @@
 
 
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slawek08&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p>
+# <p align='center'>📊 GitHub Stats:</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slawek08&layout=compact&theme=tokyonight&hide_border=true" height="165" />
